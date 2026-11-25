@@ -1,5 +1,5 @@
 /* Service worker de Ma stratégie : hors ligne, partage de captures, rappel du jour d'investir */
-const VERSION = 'ms-v4';
+const VERSION = 'ms-v5';
 const APP = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './icon-maskable-512.png', './apple-touch-icon.png'];
 const CDN = /(^|\.)cdn\.jsdelivr\.net$|^fonts\.googleapis\.com$|^fonts\.gstatic\.com$/;
 
